@@ -1,0 +1,1 @@
+// Vendor Products Page component
